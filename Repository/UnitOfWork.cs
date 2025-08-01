@@ -9,10 +9,12 @@ namespace JardeuxBlogV1.Repository
         private readonly ApplicationDbContext _db;
         
         public IBlogRepository Blog { get; private set; }
+        public ICommentRepository Comment { get; private set; }
         public UnitOfWork(ApplicationDbContext db)
         {
             _db = db;
             Blog = new BlogRepository(_db);
+            Comment = new CommentRepository(_db);
         }
 
 

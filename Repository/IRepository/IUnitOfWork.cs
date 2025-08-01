@@ -3,6 +3,7 @@
     public interface IUnitOfWork
     {
         IBlogRepository Blog { get; }
+        ICommentRepository Comment { get; }
         void Save();
 
 

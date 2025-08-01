@@ -10,6 +10,7 @@ namespace JardeuxBlogV1.Data
         {
         }
         DbSet<Blog> Blogs { get; set; }
+        DbSet<Comment> Comments { get; set; }
 
 
 

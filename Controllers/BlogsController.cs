@@ -19,8 +19,17 @@ namespace JardeuxBlogV1.Controllers
         public IActionResult Details(int id)
         {
             var blog = _unitOfWork.Blog.Get(u => u.Id == id);
-
+            var comments = _unitOfWork.Comment.GetAll(u => u.BlogId == id);
+            ViewBag.Comments = comments.ToList();
             return View(blog);
+        }
+        [HttpPost]
+        public IActionResult CreateComment(Comment model)
+        {
+            model.PublishDate = DateTime.Now;
+            _unitOfWork.Comment.Add(model);
+            _unitOfWork.Save();
+            return RedirectToAction("Details", new {id = model.BlogId});
         }
     }
 }

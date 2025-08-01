@@ -118,7 +118,7 @@ a.com span {
 	font-size:12px;
 }
 .menu_nav ul li.active a, .menu_nav ul li a:hover {
-	background-color:#68ca74;
+	background-color:black;
 }
 .content_resize {
 	margin:0 auto;
