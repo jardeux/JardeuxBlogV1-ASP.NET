@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\JardeuxBlogV1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JardeuxBlogV1.lrxevtmtki.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\header_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\header_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\images\\noimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\pix1.jpg",
+      "PackagePath": "staticwebassets\\images\\pix1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\pix2.jpg",
+      "PackagePath": "staticwebassets\\images\\pix2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\pix3.jpg",
+      "PackagePath": "staticwebassets\\images\\pix3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\pix4.jpg",
+      "PackagePath": "staticwebassets\\images\\pix4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\pix5.jpg",
+      "PackagePath": "staticwebassets\\images\\pix5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\pix6.jpg",
+      "PackagePath": "staticwebassets\\images\\pix6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\search.gif",
+      "PackagePath": "staticwebassets\\images\\search.gif"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\search_btn.gif",
+      "PackagePath": "staticwebassets\\images\\search_btn.gif"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\spacer.gif",
+      "PackagePath": "staticwebassets\\images\\spacer.gif"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\spec_bg.gif",
+      "PackagePath": "staticwebassets\\images\\spec_bg.gif"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\submit.gif",
+      "PackagePath": "staticwebassets\\images\\submit.gif"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\images\\userpic.gif",
+      "PackagePath": "staticwebassets\\images\\userpic.gif"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\js\\arial.js",
+      "PackagePath": "staticwebassets\\js\\arial.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\js\\cuf_run.js",
+      "PackagePath": "staticwebassets\\js\\cuf_run.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\js\\cufon-yui.js",
+      "PackagePath": "staticwebassets\\js\\cufon-yui.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\js\\jquery-1.3.2.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\js\\radius.js",
+      "PackagePath": "staticwebassets\\js\\radius.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\umut5\\JardeuxBlogV1\\JardeuxBlogV1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JardeuxBlogV1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JardeuxBlogV1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JardeuxBlogV1.props",
+      "PackagePath": "build\\JardeuxBlogV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JardeuxBlogV1.props",
+      "PackagePath": "buildMultiTargeting\\JardeuxBlogV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JardeuxBlogV1.props",
+      "PackagePath": "buildTransitive\\JardeuxBlogV1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,19 @@
+﻿@model List<Blog>
+<div class="mainbar">
+    @foreach(var item in Model)
+    {
+        <div class="article">
+        <h2><span>@item.Name</span></h2>
+        <div class="clr"></div>
+        <p><span class="date">@item.PublishTime</span> Posted by <a href="#">Owner</a> &nbsp;|&nbsp; Filed under <a href="#">@item.Tags</a></p>
+        <img src="@item.ImageUrl" width="625" height="205" alt="" />
+        <p>@item.Description</p>
+        <p class="spec"><a asp-action="Details" asp-route-Id="@item.Id" class="rm me-3">Daha fazla</a> 
+                <a href="#" class="com me-3"><span>@item.LikeCount</span> Beğeni</a>
+                <a href="#" class="com me-3"><span>@item.ViewCount</span> Görüntülenme</a>
+            <a href="#" class="com"><span>@item.CommentCount</span> Yorum</a></p>
+            
+    </div>
+    }
+    
+</div>
