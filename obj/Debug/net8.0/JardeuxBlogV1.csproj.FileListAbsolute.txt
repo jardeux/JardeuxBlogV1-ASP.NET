@@ -140,3 +140,4 @@ C:\Users\umut5\JardeuxBlogV1\JardeuxBlogV1\obj\Debug\net8.0\JardeuxBlogV1.csproj
 C:\Users\umut5\JardeuxBlogV1\JardeuxBlogV1\obj\Debug\net8.0\JardeuxB.769EFF94.Up2Date
 C:\Users\umut5\JardeuxBlogV1\JardeuxBlogV1\obj\Debug\net8.0\JardeuxBlogV1.sourcelink.json
 C:\Users\umut5\JardeuxBlogV1\JardeuxBlogV1\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\umut5\JardeuxBlogV1\JardeuxBlogV1\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

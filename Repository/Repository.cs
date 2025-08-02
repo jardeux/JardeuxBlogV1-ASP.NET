@@ -14,6 +14,7 @@ namespace JardeuxBlogV1.Repository
         {
             _db = db;
             this.dbSet = _db.Set<T>();
+            
         }
         public void Add(T entity)
         {

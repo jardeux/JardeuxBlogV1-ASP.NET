@@ -5,9 +5,6 @@
 
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
     <h1 class="h3 mb-0 text-gray-800">Bloglarım</h1>
-    <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
-        <i class="fas fa-download fa-sm text-white-50"></i> Generate Report
-    </a>
 </div>
 
 @foreach (var item in Model.OrderByDescending(u => u.Id))
@@ -25,6 +22,7 @@
                 aria-labelledby="dropdownMenuLink">
                     <div class="dropdown-header">Seçenekler:</div>
                     <a class="dropdown-item" asp-action="EditBlog" asp-route-Id="@item.Id">Düzenle</a>
+                    <a class="dropdown-item" asp-controller="Blogs" asp-action="Details" asp-route-Id="@item.Id">Bloga Git</a>
                     @if(item.Status == 0)
                     {
                         <a class="dropdown-item" asp-action="ChangeStatus" asp-route-Id="@item.Id">Görünüme Aç</a>

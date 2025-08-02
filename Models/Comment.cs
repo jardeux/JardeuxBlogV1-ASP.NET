@@ -1,4 +1,7 @@
-﻿namespace JardeuxBlogV1.Models
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace JardeuxBlogV1.Models
 {
     public class Comment
     {
@@ -9,6 +12,10 @@
         public string Email { get; set; }
 
         public string Name { get; set; }
+
+        [ValidateNever]
+        public Blog Blog { get; set; }
+        
 
 
 

@@ -1,5 +1,9 @@
-﻿using JardeuxBlogV1.Models;
+﻿using System.Threading.Tasks;
+using JardeuxBlogV1.Identity;
+using JardeuxBlogV1.Models;
+using JardeuxBlogV1.Models.ViewModels;
 using JardeuxBlogV1.Repository.IRepository;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace JardeuxBlogV1.Controllers
@@ -7,9 +11,11 @@ namespace JardeuxBlogV1.Controllers
     public class BlogsController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
-        public BlogsController(IUnitOfWork unitOfWork)
+        
+        public BlogsController(IUnitOfWork unitOfWork, UserManager<BlogIdentityUser> userManager, SignInManager<BlogIdentityUser> signInManager)
         {
             _unitOfWork = unitOfWork;
+            
         }
         public IActionResult Index()
         {
@@ -18,7 +24,11 @@ namespace JardeuxBlogV1.Controllers
         }
         public IActionResult Details(int id)
         {
-            var blog = _unitOfWork.Blog.Get(u => u.Id == id);
+            var blog = _unitOfWork.Blog.Get(u => u.Id == id & u.Status ==1);
+            if(blog == null)
+            {
+                return NotFound();
+            }
             var comments = _unitOfWork.Comment.GetAll(u => u.BlogId == id);
             blog.ViewCount += 1;
             _unitOfWork.Save();
@@ -35,7 +45,7 @@ namespace JardeuxBlogV1.Controllers
 
             _unitOfWork.Save();
             TempData["success"] = "Yorumunuz Başarıyla Gönderildi";
-            return RedirectToAction("Details", new {id = model.BlogId});
+            return RedirectToAction("Details", new { id = model.BlogId });
         }
         public IActionResult About()
         {
@@ -52,9 +62,8 @@ namespace JardeuxBlogV1.Controllers
             _unitOfWork.Contact.Add(model);
             _unitOfWork.Save();
             TempData["success"] = "Mesajınız Başarıyla Gönderildi";
-            return RedirectToAction("Index");     
+            return RedirectToAction("Index");
         }
-        
         
     }
 }

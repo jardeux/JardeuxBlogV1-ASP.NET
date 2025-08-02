@@ -1,0 +1,41 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Kullanıcı Ekle</h1>
+   
+</div>
+
+
+
+
+<form class="user" asp-action="Register" method="post">
+    <div class="form-group row">
+        <div class="col-sm-6 mb-3 mb-sm-0">
+            <input type="text" class="form-control form-control-user" id="exampleFirstName"
+                   placeholder="İsim" name="name">
+        </div>
+        <div class="col-sm-6">
+            <input type="text" class="form-control form-control-user" id="exampleLastName"
+                   placeholder="Soy isim" name="surname">
+        </div>
+    </div>
+    <div class="form-group">
+        <input type="email" class="form-control form-control-user" id="exampleInputEmail"
+               placeholder="Email Address" name="email">
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-6 mb-3 mb-sm-0">
+            <input type="password" class="form-control form-control-user"
+                   id="exampleInputPassword" placeholder="Password" name="password">
+        </div>
+        <div class="col-sm-6">
+            <input type="password" class="form-control form-control-user"
+                   id="exampleRepeatPassword" placeholder="Repeat Password" name="repassword">
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary btn-user btn-block">
+        Register Account
+    </a>
+</form>
