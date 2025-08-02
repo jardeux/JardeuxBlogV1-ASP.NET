@@ -33,3 +33,15 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
 git clone https://github.com/jardeux/JardeuxBlogV1-ASP.NET.git
+
+📂 Proje Yapısı
+JardeuxBlogV1
+│
+├── Controllers/         → MVC Controller dosyaları
+├── Models/              → Veritabanı modelleri
+├── Views/               → Razor view'ları
+├── wwwroot/             → Statik dosyalar (CSS, JS, img)
+├── DataAccess/          → Repository, UnitOfWork
+└── JardeuxBlogV1.csproj → Proje dosyası
+📄 Lisans
+Bu proje MIT lisansı ile lisanslanmıştır.
